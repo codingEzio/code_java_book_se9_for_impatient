@@ -4,8 +4,6 @@ import java.util.Random;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        // Not much code in here?
-        //  Most code were typed in the JShell.
 
         System.out.println("Hello Java!");
         System.out.println("Hello Java!".length());
